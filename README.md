@@ -19,10 +19,10 @@
 
 ### 🌟 Featured Projects
 
-- **🚜 Water Demand Prediction for Agricultural Fields**  
+- **🚜🚰 Water Demand Prediction in an Agriculture Field for the Primary Crop using Machine Learning**  
   _Predicting water requirements for primary crops using Python & AIML. Helping farmers with smart irrigation!_
 
-- **📧 End-to-End Spam Detection System**  
+- **📨📩📧End-to-End Spam Detection System**  
   _Built a robust spam detector from scratch using Python and ML—keeps your inbox clean and safe._
 
 ---
@@ -42,8 +42,8 @@
 ### 🎨 Hobbies & Interests
 
 - ✏️ Drawing (especially pencil arts)
-- 📚 Reading informative books
-
+- 💪🧘‍♀️ Doing some Yoga to Relax
+- 🚀Upgrading myself with the Latest AIs
 ---
 
 ### 🌐 Let’s Connect
